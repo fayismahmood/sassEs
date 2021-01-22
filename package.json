@@ -1,15 +1,23 @@
 {
-  "name": "sasses",
-  "version": "1.0.0",
-  "description": "",
+  "name": "essass",
+  "version": "1.0.12",
+  "description": "esbuild sass compailer",
   "main": "index.js",
   "dependencies": {
-    "sass": "^1.32.4"
+    "sass": "^1.32.5"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fayismahmood/sassEs.git"
+  },
+  "author": "Fayis Mahmood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fayismahmood/sassEs/issues"
+  },
+  "homepage": "https://github.com/fayismahmood/sassEs#readme"
 }
